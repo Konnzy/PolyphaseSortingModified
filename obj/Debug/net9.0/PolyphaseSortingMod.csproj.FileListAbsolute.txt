@@ -1,0 +1,14 @@
+C:\Users\user\PA Workshops\PolyphaseSortingMod\bin\Debug\net9.0\PolyphaseSortingMod.exe
+C:\Users\user\PA Workshops\PolyphaseSortingMod\bin\Debug\net9.0\PolyphaseSortingMod.deps.json
+C:\Users\user\PA Workshops\PolyphaseSortingMod\bin\Debug\net9.0\PolyphaseSortingMod.runtimeconfig.json
+C:\Users\user\PA Workshops\PolyphaseSortingMod\bin\Debug\net9.0\PolyphaseSortingMod.dll
+C:\Users\user\PA Workshops\PolyphaseSortingMod\bin\Debug\net9.0\PolyphaseSortingMod.pdb
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.AssemblyInfoInputs.cache
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.AssemblyInfo.cs
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.csproj.CoreCompileInputs.cache
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.dll
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\refint\PolyphaseSortingMod.dll
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.pdb
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\PolyphaseSortingMod.genruntimeconfig.cache
+C:\Users\user\PA Workshops\PolyphaseSortingMod\obj\Debug\net9.0\ref\PolyphaseSortingMod.dll
